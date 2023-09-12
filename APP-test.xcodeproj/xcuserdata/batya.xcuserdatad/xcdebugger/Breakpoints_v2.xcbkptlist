@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9792A7D0-D600-46D1-8E4C-CA6763C8A63D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA820F6F-6743-4052-84DF-BB76095B2D58"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APP-test/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DA820F6F-6743-4052-84DF-BB76095B2D58 - 99162d55623f1290"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APP_test.ViewController.LabelPass.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "APP-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batya/Library/Autosave%20Information/APP-test/APP-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "DA820F6F-6743-4052-84DF-BB76095B2D58 - cb9b316a7ce04b9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APP_test.ViewController.LabelPass.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "APP-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batya/Library/Autosave%20Information/APP-test/APP-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "DA820F6F-6743-4052-84DF-BB76095B2D58 - 10a03c753f838853"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APP_test.ViewController.LabelPass.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "APP-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batya/Library/Autosave%20Information/APP-test/APP-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "DA820F6F-6743-4052-84DF-BB76095B2D58 - 9e19701be16ebfe2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APP_test.ViewController.LabelPass.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "APP-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batya/Library/Autosave%20Information/APP-test/APP-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "DA820F6F-6743-4052-84DF-BB76095B2D58 - 1fe846d58763681f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APP_test.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; APP_test.ViewController"
+                  moduleName = "APP-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batya/Library/Autosave%20Information/APP-test/APP-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "DA820F6F-6743-4052-84DF-BB76095B2D58 - 81b4ff310ff251d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APP_test.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;APP_test.ViewController&gt;"
+                  moduleName = "APP-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batya/Library/Autosave%20Information/APP-test/APP-test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "373">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
